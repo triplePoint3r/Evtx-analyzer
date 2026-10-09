@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+
+# Generated forensic data — may contain sensitive information
+evidence/
+samples/
+logs/
+timelines/
+*.evtx
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
